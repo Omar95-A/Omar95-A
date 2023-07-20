@@ -32,7 +32,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
 ![FireBase](https://img.shields.io/badge/-FireBase-05122A?style=flat&logo=FireBase)&nbsp;
-
+![APEX](https://img.shields.io/badge/-APEX-05122A?style=flat&logo=Oracle)&nbsp;
 
 
 
