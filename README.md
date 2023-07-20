@@ -3,7 +3,7 @@
 
 <h3 align="center">
   Welcome to Omar Akrum's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=2000&color=5BCA18&width=435&lines=Front-End+Developer;I+Always+Want+To+Improving+Myself;Always+Think+Of+New+Targets" alt="Typing SVG" /></a>
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
