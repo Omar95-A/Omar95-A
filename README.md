@@ -23,11 +23,15 @@
 </div>
 
 
-### Connect with Me :
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<p align="center">
+	<a href="mailto:omar.akrum95@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://wa.me/+905343803477"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="#"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="#"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="#"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Omar%20Akrum-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Omar%20Akrum-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Omar%20Akrum-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
