@@ -11,9 +11,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=2000&color=5BCA18&width=435&lines=Front-End+Developer;I+Always+Want+To+Improving+Myself;Always+Think+Of+New+Targets" alt="Typing SVG" /></a>
 </p> 
 
-- 💻 I'm a Software Engineer
+- 👨‍💻 I'm a Software Engineer
 - 📧 For Connect with Me Via Gmail omar.akrum95@gmail.com
-- 👨‍💻 Check out my portfolio at https://omar95-a.github.io/Website-Project-2/ to see some of the projects I've worked on.
+- 💻 As a Software engineer, I'm constantly learning and exploring new technologies to improve my skills.
+- 👀 Check out my portfolio at https://omar95-a.github.io/Website-Project-2/ to see some of the projects I've worked on.
 
 
 <div align="center">
