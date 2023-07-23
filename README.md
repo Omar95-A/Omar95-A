@@ -14,7 +14,7 @@
 - 👨‍💻 I'm a Software Engineer
 - 📧 For Connect with Me Via Gmail omar.akrum95@gmail.com
 - 💻 As a Software engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 👀 Check out my portfolio at https://omar95-a.github.io/Website-Project-2/ to see some of the projects I've worked on.
+- 👀 Check out my last project at https://omar95-a.github.io/Website-Project-2/ to see some of the projects I've worked on.
 
 
 <div align="center">
