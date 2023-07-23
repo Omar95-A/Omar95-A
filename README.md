@@ -38,15 +38,15 @@
 <p align="left"> 
 
 <a href="https://www.html.com/en/">
-    <img alt="HTML" src="https://img.shields.io/badge/Html-E44D26?style=for-the-badge&logo=html&logoColor=white"/>
+    <img alt="HTML" src="https://img.shields.io/badge/Html-E44D26?style=for-the-badge&logo=HTML5&logoColor=white"/>
   </a>
    	&emsp;
 <a href="https://www.css.com/en/">
-    <img alt="Css" src="https://img.shields.io/badge/Css-4481EB?style=for-the-badge&logo=css&logoColor=white"/>
+    <img alt="Css" src="https://img.shields.io/badge/Css-4481EB?style=for-the-badge&logo=CSS3&logoColor=white"/>
   </a>
  	&emsp;
 <a href="https://www.javascript.com/en/">
-    <img alt="JS" src="https://img.shields.io/badge/=JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white"/>
+    <img alt="JS" src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white"/>
   </a>
   	&emsp;
   <a href="https://php.net/">
@@ -54,15 +54,11 @@
   </a>
   	&emsp;
 <a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=JAVA&logoColor=white"/>
   </a>
 	&emsp;
 <a href="https://python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a>
-   	&emsp;
-<a href="https://www.cprogramming.com/">
-    <img alt="Java" src="https://img.shields.io/badge/C-3498DB?style=for-the-badge&logo=c&logoColor=white"/>
   </a>
  	&emsp;
 <a href="https://www.typescript.com/en/">
@@ -109,7 +105,7 @@
   </a>
      	&emsp;
   <a href="https://vscode.com/" target="_blank"> 
-    <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=VSCode&logoColor=white"/>
+    <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=VSCODE&logoColor=white"/>
   </a>
 </p>
 
