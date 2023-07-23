@@ -86,35 +86,34 @@
 
 ### 🛠  Tech Stack
 <p align="left"> 
-   &emsp;
-  <a href="https://mysql.com/" target="_blank"> 
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=SQL&logoColor=white"/>
-  </a>
-     &emsp;
   <a href="https://bootstrap.com/" target="_blank"> 
     <img alt="BOOTSTRAP" src="https://img.shields.io/badge/BOOTSTRAP-563d7c?style=for-the-badge&logo=BOOTSTRAP&logoColor=white"/>
   </a>
-     &emsp;
+	&emsp;
   <a href="https://jquery.com/" target="_blank"> 
     <img alt="JQUERY" src="https://img.shields.io/badge/JQUERY-0769ad?style=for-the-badge&logo=JQUERY&logoColor=white"/>
   </a>
-     &emsp;
+	&emsp;
+  <a href="https://sass-lang.com/" target="_blank"> 
+    <img alt="Sass" src="https://img.shields.io/badge/Sass-CD6799?style=for-the-badge&logo=sass&logoColor=white"/>
+  </a>
+	&emsp;
+  <a href="https://mysql.com/" target="_blank"> 
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=SQL&logoColor=white"/>
+  </a>
+     	&emsp;
   <a href="https://git.com/" target="_blank"> 
     <img alt="git" src="https://img.shields.io/badge/git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
-     &emsp;
+     	&emsp;
   <a href="https://github.com/" target="_blank"> 
     <img alt="github" src="https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-     &emsp;
+     	&emsp;
   <a href="https://firebase.com/" target="_blank"> 
     <img alt="firebase" src="https://img.shields.io/badge/firebase-F5820D?style=for-the-badge&logo=firebase&logoColor=white"/>
   </a>
-     &emsp;
-  <a href="https://scss.com/" target="_blank"> 
-    <img alt="Sass" src="https://img.shields.io/badge/scss-CD6799?style=for-the-badge&logo=sass&logoColor=white"/>
-  </a>
-     &emsp;
+     	&emsp;
   <a href="https://androidstudio.com/" target="_blank"> 
     <img alt="Android Studio" src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/>
   </a>
@@ -122,8 +121,6 @@
   <a href="https://vscode.com/" target="_blank"> 
     <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=VSCode&logoColor=white"/>
   </a>
-   
-	
 </p>
 
 
