@@ -86,26 +86,6 @@
 
 ### 🛠  Tech Stack
 <p align="left"> 
-&emsp;
-  <a href="https://react.dev/" target="_blank"> 
-     <img alt="React" src="https://img.shields.io/badge/React-040720?style=for-the-badge&logo=react&logoColor=00AEEF">
-   </a>
-  &emsp; 
-  <a href="https://www.angular.org/" target="_blank"> 
-   <img alt="Angular" src="https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=Angular&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://nodejs.org/" target="_blank">
-    <img alt="Node JS" src="https://img.shields.io/badge/node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://express.io/" target="_blank"> 
-    <img alt="Express JS" src="https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express.js&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://mongodb.io/" target="_blank"> 
-    <img alt="Mongo DB" src="https://img.shields.io/badge/MONGODB-4DB33D?style=for-the-badge&logo=MONGODB&logoColor=white"/>
-  </a>
    &emsp;
   <a href="https://mysql.com/" target="_blank"> 
     <img alt="SQL" src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=SQL&logoColor=white"/>
@@ -114,15 +94,6 @@
   <a href="https://bootstrap.com/" target="_blank"> 
     <img alt="BOOTSTRAP" src="https://img.shields.io/badge/BOOTSTRAP-563d7c?style=for-the-badge&logo=BOOTSTRAP&logoColor=white"/>
   </a>
-     &emsp;
-  <a href="https://django.com/" target="_blank"> 
-    <img alt="DJANGO" src="https://img.shields.io/badge/DJANGO-092e20?style=for-the-badge&logo=SQL&logoColor=white"/>
-  </a>
-     &emsp;
-  <a href="https://springmvc.com/" target="_blank"> 
-    <img alt="SPRING MVC" src="https://img.shields.io/badge/SpringMVC-c6d7b9?style=for-the-badge&logo=SpringMVC&logoColor=white"/>
-  </a>
-  &emsp;
      &emsp;
   <a href="https://jquery.com/" target="_blank"> 
     <img alt="JQUERY" src="https://img.shields.io/badge/JQUERY-0769ad?style=for-the-badge&logo=JQUERY&logoColor=white"/>
@@ -141,41 +112,13 @@
   </a>
      &emsp;
   <a href="https://scss.com/" target="_blank"> 
-    <img alt="scss" src="https://img.shields.io/badge/scss-CD6799?style=for-the-badge&logo=scss&logoColor=white"/>
-  </a>
-     &emsp;
-  <a href="https://matrialUI.com/" target="_blank"> 
-    <img alt="MaterialUI" src="https://img.shields.io/badge/MaterialUI-3f51b5?style=for-the-badge&logo=MaterialUI&logoColor=white"/>
-  </a>
-     &emsp;
-  <a href="https://nextjs.com/" target="_blank"> 
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-800000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-  </a>
-     &emsp;
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-b8c2cc?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  </a>
-     &emsp;
-  <a href="https://figma.com/" target="_blank"> 
-    <img alt="figma" src="https://img.shields.io/badge/Figma-e04a34?style=for-the-badge&logo=Figma&logoColor=white"/>
-  </a>
-	&emsp;
-  <a href="https://canva.com/" target="_blank"> 
-    <img alt="canva" src="https://img.shields.io/badge/Canva-3498db?style=for-the-badge&logo=Canva&logoColor=white"/>
-  </a>
-	&emsp;
-  <a href="https://docker.com/" target="_blank"> 
-    <img alt="docker" src="https://img.shields.io/badge/Docker-4481eb?style=for-the-badge&logo=Docker&logoColor=white"/>
+    <img alt="Sass" src="https://img.shields.io/badge/scss-CD6799?style=for-the-badge&logo=sass&logoColor=white"/>
   </a>
      &emsp;
   <a href="https://androidstudio.com/" target="_blank"> 
     <img alt="Android Studio" src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/>
   </a>
-     &emsp;
-  <a href="https://netbeans.com/" target="_blank"> 
-    <img alt="Netbeans" src="https://img.shields.io/badge/netbeans-2E90E8?style=for-the-badge&logo=netbeans&logoColor=white"/>
-  </a>
-     &emsp;
+     	&emsp;
   <a href="https://vscode.com/" target="_blank"> 
     <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=VSCode&logoColor=white"/>
   </a>
