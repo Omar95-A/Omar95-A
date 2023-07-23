@@ -51,7 +51,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=AndroidStudio)&nbsp;
+![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=AndroidStudio)&nbsp;
 ![typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
