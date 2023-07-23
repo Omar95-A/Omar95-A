@@ -111,7 +111,8 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-<img alt="Static Badge" src="https://img.shields.io/badge/Java?logo=java&logoColor=black&label=%3Ca%20href%3D%22https%3A%2F%2Fgoogle.com%22%3E%3C%2Fa%3E&labelColor=white&color=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Java?logo=HTML5&logoColor=black&labelColor=white&color=white">
+
 
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
