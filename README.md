@@ -14,7 +14,7 @@
 - 👨‍💻 I'm a Software Engineer
 - 📧 For Connect with Me Via Gmail omar.akrum95@gmail.com
 - 💻 As a Software engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 👀 Check out my last project at https://omar95-a.github.io/Website-Project-2/ to see some of the projects I've worked on.
+- 👀 Check out my last project at https://omar95-a.github.io/Website-Project-3/ to see last of the projects I've worked on.
 
 
 <div align="center">
@@ -41,7 +41,7 @@
 ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=JQuery)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
