@@ -33,58 +33,44 @@
 	<a href="https://www.instagram.com/omar_akrum/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 
-### 🛠 Languages
+### 🛠  Tech Stack
 
 <p align="left"> 
-  
 
-  <a href="https://php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/Php-474A8A?style=for-the-badge&logo=dart&logoColor=white"/>
-  </a>
-&emsp;
-<a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a>
-  &emsp;
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-   &emsp;
-<a href="https://www.cprogramming.com/">
-    <img alt="Java" src="https://img.shields.io/badge/C-3498DB?style=for-the-badge&logo=c&logoColor=white"/>
-  </a>
- &emsp;
-<a href="https://www.cplusplus.com/en/">
-    <img alt="C++" src="https://img.shields.io/badge/C++-4481EB?style=for-the-badge&logo=c++&logoColor=white"/>
-  </a>
- &emsp;
-<a href="https://www.javapoint.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java -D0A384?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
- &emsp;
-<a href="https://www.javascript.com/en/">
-    <img alt="JS" src="https://img.shields.io/badge/JS-f0db4f?style=for-the-badge&logo=javascript&logoColor=white"/>
-  </a>
- &emsp;
-<a href="https://www.typescript.com/en/">
-    <img alt="TS" src="https://img.shields.io/badge/TypeScript-4481EB?style=for-the-badge&logo=typescript&logoColor=white"/>
-  </a>
- &emsp;
 <a href="https://www.html.com/en/">
     <img alt="HTML" src="https://img.shields.io/badge/Html-E44D26?style=for-the-badge&logo=html&logoColor=white"/>
   </a>
-   &emsp;
+   	&emsp;
 <a href="https://www.css.com/en/">
     <img alt="Css" src="https://img.shields.io/badge/Css-4481EB?style=for-the-badge&logo=css&logoColor=white"/>
   </a>
-
-
-  
-
-
+ 	&emsp;
+<a href="https://www.javascript.com/en/">
+    <img alt="JS" src="https://img.shields.io/badge/=JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white"/>
+  </a>
+  	&emsp;
+  <a href="https://php.net/">
+    <img alt="PHP" src="https://img.shields.io/badge/Php-474A8A?style=for-the-badge&logo=PHP&logoColor=white"/>
+  </a>
+  	&emsp;
+<a href="https://www.java.com/en/">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+	&emsp;
+<a href="https://python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  </a>
+   	&emsp;
+<a href="https://www.cprogramming.com/">
+    <img alt="Java" src="https://img.shields.io/badge/C-3498DB?style=for-the-badge&logo=c&logoColor=white"/>
+  </a>
+ 	&emsp;
+<a href="https://www.typescript.com/en/">
+    <img alt="TS" src="https://img.shields.io/badge/TypeScript-4481EB?style=for-the-badge&logo=typescript&logoColor=white"/>
+  </a>
+ 	&emsp;
 </p>
 
-### 🛠  Tech Stack
 <p align="left"> 
   <a href="https://bootstrap.com/" target="_blank"> 
     <img alt="BOOTSTRAP" src="https://img.shields.io/badge/BOOTSTRAP-563d7c?style=for-the-badge&logo=BOOTSTRAP&logoColor=white"/>
@@ -99,7 +85,7 @@
   </a>
 	&emsp;
   <a href="https://mysql.com/" target="_blank"> 
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=SQL&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=white"/>
   </a>
      	&emsp;
   <a href="https://git.com/" target="_blank"> 
@@ -108,6 +94,10 @@
      	&emsp;
   <a href="https://github.com/" target="_blank"> 
     <img alt="github" src="https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+     	&emsp;
+  <a href="https://apex.oracle.com/" target="_blank"> 
+    <img alt="APEX" src="https://img.shields.io/badge/APEX-F5820D?style=for-the-badge&logo=Oracle&logoColor=white"/>
   </a>
      	&emsp;
   <a href="https://firebase.com/" target="_blank"> 
