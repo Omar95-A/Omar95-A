@@ -35,97 +35,20 @@
 
 ### 🛠  Tech Stack
 
-<p align="left"> 
-
-<a href="https://www.html.com/en/">
-    <img alt="HTML" src="https://img.shields.io/badge/Html-E44D26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-  </a>
-   	&emsp;
-<a href="https://www.css.com/en/">
-    <img alt="Css" src="https://img.shields.io/badge/Css-4481EB?style=for-the-badge&logo=CSS3&logoColor=white"/>
-  </a>
- 	&emsp;
-<a href="https://www.javascript.com/en/">
-    <img alt="JS" src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white"/>
-  </a>
-  	&emsp;
-  <a href="https://php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/Php-474A8A?style=for-the-badge&logo=PHP&logoColor=white"/>
-  </a>
-  	&emsp;
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=JAVA&logoColor=white"/>
-  </a>
-	&emsp;
-<a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a>
- 	&emsp;
-<a href="https://www.typescript.com/en/">
-    <img alt="TS" src="https://img.shields.io/badge/TypeScript-4481EB?style=for-the-badge&logo=typescript&logoColor=white"/>
-  </a>
- 	&emsp;
-</p>
-
-<p align="left"> 
-  <a href="https://bootstrap.com/" target="_blank"> 
-    <img alt="BOOTSTRAP" src="https://img.shields.io/badge/BOOTSTRAP-563d7c?style=for-the-badge&logo=BOOTSTRAP&logoColor=white"/>
-  </a>
-	&emsp;
-  <a href="https://jquery.com/" target="_blank"> 
-    <img alt="JQUERY" src="https://img.shields.io/badge/JQUERY-0769ad?style=for-the-badge&logo=JQUERY&logoColor=white"/>
-  </a>
-	&emsp;
-  <a href="https://sass-lang.com/" target="_blank"> 
-    <img alt="Sass" src="https://img.shields.io/badge/Sass-CD6799?style=for-the-badge&logo=sass&logoColor=white"/>
-  </a>
-	&emsp;
-  <a href="https://mysql.com/" target="_blank"> 
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  </a>
-     	&emsp;
-  <a href="https://git.com/" target="_blank"> 
-    <img alt="git" src="https://img.shields.io/badge/git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
-  </a>
-     	&emsp;
-  <a href="https://github.com/" target="_blank"> 
-    <img alt="github" src="https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-     	&emsp;
-  <a href="https://apex.oracle.com/" target="_blank"> 
-    <img alt="APEX" src="https://img.shields.io/badge/APEX-F5820D?style=for-the-badge&logo=Oracle&logoColor=white"/>
-  </a>
-     	&emsp;
-  <a href="https://firebase.com/" target="_blank"> 
-    <img alt="firebase" src="https://img.shields.io/badge/firebase-F5820D?style=for-the-badge&logo=firebase&logoColor=white"/>
-  </a>
-     	&emsp;
-  <a href="https://androidstudio.com/" target="_blank"> 
-    <img alt="Android Studio" src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/>
-  </a>
-     	&emsp;
-  <a href="https://vscode.com/" target="_blank"> 
-    <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=VSCODE&logoColor=white"/>
-  </a>
-</p>
-
-
-### 🛠 &nbsp;Tech Stack
-<img alt="Static Badge" src="https://img.shields.io/badge/Java?logo=HTML5&logoColor=black&labelColor=white&color=white">
-
-
-
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=JQuery)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=JAVA)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=VSCode)&nbsp;
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=AndroidStudio)&nbsp;
+![typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
 ![FireBase](https://img.shields.io/badge/-FireBase-05122A?style=flat&logo=FireBase)&nbsp;
