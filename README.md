@@ -11,7 +11,6 @@
 - 👨‍💻 I'm a Software Engineer. As a Software engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 🎓 I have a Bachelor’s Degree in Software Engineering from the University of Firat.
 - 💻 I’m passionate about software development and I'm looking forward to getting to work on new projects in the near future.
-- 👀 Check out my last project at https://omar95-a.github.io/Website-Project-3/ to see last of the projects I've worked on.
 - 📧 Feel free to send me a message if you would like to know more about me.
 
 
