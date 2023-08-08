@@ -37,8 +37,6 @@
 <a href="https://www.facebook.com/profile.php?id=100094963694533">
     <img align="center" alt="Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
-      <img align="center" alt="Facebook" width="24px" src="[https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png](https://raw.githubusercontent.com/gist/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-240px.svg)" />
-</a> &nbsp;&nbsp;
 <p>
  <br>
 
