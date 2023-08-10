@@ -25,7 +25,7 @@
 
  <br>
 <p align="center">
-<a href="https" target="_blank">
+<a href="" target="_blank">
   <img align="center" alt="Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/omar_akrum/" target="_blank">
