@@ -31,9 +31,8 @@
   <a href="https://www.instagram.com/omar_akrum/"><img width ='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg'></a>
 &nbsp;
   <a href=""><img width ='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg'></a>
-  
+  &nbsp;
   <a href="mailto:omer.akrum@yahoo.com"><img width ='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/yahoo.svg'></a>
-
 </div>
   
  <br>
