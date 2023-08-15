@@ -25,15 +25,14 @@
 
  <br>
 <div align="center">
- &nbsp;&nbsp;
 
-<a href="https://www.facebook.com/profile.php?id=100094963694533" target="_blank"><img width ='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg'></a>
-</div>
-<a href="https://www.instagram.com/omar_akrum/" target="_blank"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg'></a>
+  <a href="https://www.facebook.com/profile.php?id=100094963694533"><img width ='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg'></a>
+  </div>
+  <a href="https://www.instagram.com/omar_akrum/"><img width ='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg'></a>
+  
+  <a href=""><img width ='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in.svg'></a>
+  <a href="mailto:omer.akrum@yahoo.com"><img width ='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/yahoo.svg'></a>
 
-<a href="" target="_blank"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in.svg'></a>
-<a href="mailto:omer.akrum@yahoo.com" target="_blank"><img width ='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/yahoo.svg'></a>
-</div>
 </div>
   
  <br>
