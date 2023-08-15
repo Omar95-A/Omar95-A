@@ -30,7 +30,7 @@
   &nbsp;
   <a href="https://www.instagram.com/omar_akrum/"><img width ='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg'></a>
   &nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100094963694533"><img width ='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg'></a>
+  <a href="https://www.facebook.com/profile.php?id=100094963694533"><img width ='24px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/icons/facebook-tile.svg'></a>
   &nbsp;
   <a href="mailto:omer.akrum@yahoo.com"><img width ='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/yahoo.svg'></a>
 </div>
