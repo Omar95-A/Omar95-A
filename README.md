@@ -26,13 +26,13 @@
  <br>
 <div align="center">
 
-  <a href=""><img width ='32px' src ='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg'></a>
+  <a href=""><img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/linkedin-icon.svg'></a>
   &nbsp;
-  <a href="https://www.instagram.com/omar_akrum/"><img width ='35px' src ='https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg'></a>
+  <a href="https://www.instagram.com/omar_akrum/"><img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/instagram-icon.svg'></a>
   &nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100094963694533"><img width ='32px' src ='https://www.vectorlogo.zone/logos/facebook/facebook-official.svg'></a>
+  <a href="https://www.facebook.com/profile.php?id=100094963694533"><img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/facebook-official.svg'></a>
   &nbsp;
-  <a href="mailto:omer.akrum@yahoo.com"><img width ='35px' src ='https://www.vectorlogo.zone/logos/yahoo/yahoo-tile.svg'></a>
+  <a href="mailto:omer.akrum@yahoo.com"><img width ='35px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/yahoo-icon.svg'></a>
 </div>
   
  <br>
@@ -45,9 +45,9 @@
 
 <div align="left">
   <br>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
+  <img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/w3_html5-icon.svg'> 
+  <img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/w3_css-icon.svg'>
+  <img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/getbootstrap-icon.svg'>
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> 
   <img width ='32px' src ='https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg'> 
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
