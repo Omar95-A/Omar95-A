@@ -32,7 +32,7 @@
   &nbsp;
   <a href="https://www.facebook.com/profile.php?id=100094963694533"><img width ='32px' src ='https://www.vectorlogo.zone/logos/facebook/facebook-official.svg'></a>
   &nbsp;
-  <a href="mailto:omer.akrum@yahoo.com"><img width ='35px' src ='https://www.vectorlogo.zone/logos/yahoo/yahoo-ar21.svg'></a>
+  <a href="mailto:omer.akrum@yahoo.com"><img width ='35px' src ='https://www.vectorlogo.zone/logos/yahoo/yahoo-tile.svg'></a>
 </div>
   
  <br>
