@@ -30,9 +30,9 @@
   &nbsp;
   <a href="https://www.instagram.com/omar_akrum/"><img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/instagram-icon.svg'></a>
   &nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100094963694533"><img width ='32px' src ='https://www.vectorlogo.zone/logos/facebook/facebook-official.svg'></a>
+  <a href="https://www.facebook.com/profile.php?id=100094963694533"><img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/facebook-official.svg'></a>
   &nbsp;
-  <a href="mailto:omer.akrum@yahoo.com"><img width ='32px' src ='https://www.vectorlogo.zone/logos/yahoo/yahoo-tile.svg'></a>
+  <a href="mailto:omer.akrum@yahoo.com"><img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/yahoo-icon.svg'></a>
 </div>
   
  <br>
