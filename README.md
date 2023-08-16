@@ -46,7 +46,7 @@
 <div align="left">
   <br>
   <img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/w3_html5-icon.svg'> 
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
+  <img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/w3_css-icon.svg'>
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> 
   <img width ='32px' src ='https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg'> 
