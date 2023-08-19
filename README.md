@@ -49,7 +49,7 @@
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-css3.svg'>
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons-bootstrap.svg'>
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-sass.svg'> 
-  <img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-jquery-is-a-javascript-library-designed-to-simplify-html-96.png'> 
+  <img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/jquery-icon%20(1).svg'> 
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-javascript.svg'>
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-typescript.svg'>
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg'> 
