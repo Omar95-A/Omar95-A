@@ -60,7 +60,7 @@
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-php-logo.svg'> &nbsp;
   <img width ='48px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-mysql-logo.svg'> &nbsp;
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-arduino.svg'>
-  <br>
+  <br><br>
 </div>
 <a target="_blank" href="https://icons8.com">You Too Can Explore Icons8</a>
 
