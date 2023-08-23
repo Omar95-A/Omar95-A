@@ -61,7 +61,7 @@
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-c%2B%2B.svg'>
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-php-logo.svg'> &nbsp;
   <img width ='48px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-mysql-logo.svg'> &nbsp;
-  <img width ='48px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-oracle-logo.svg'> &nbsp;
+  <img width ='54px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-oracle-logo.svg'>
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-oracle-application-express%20(1).svg'>
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-arduino.svg'>
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-dart.svg'>
