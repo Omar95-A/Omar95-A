@@ -32,7 +32,7 @@
   &nbsp;
   <a href="https://www.facebook.com/profile.php?id=100094963694533"><img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/facebook-official.svg'></a>
   &nbsp;
-  <a href="mailto:omer.akrum@yahoo.com"><img width ='35px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/icons8-yahoo-mail-app.svg'></a>
+  <a href="mailto:omer.akrum@yahoo.com"><img width ='45px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/icons8-yahoo-mail-app.svg'></a>
 </div>
   
  <br>
