@@ -26,7 +26,7 @@
  <br>
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/omer-akrum-/"><img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/icons8-linkedin.svg'></a>
+  <a href="https://www.linkedin.com/in/omer-akrum-/"><img width ='52px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/icons8-linkedin.svg'></a>
   &nbsp;
   <a href="https://www.instagram.com/omar_akrum/"><img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/instagram-icon.svg'></a>
   &nbsp;
