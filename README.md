@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F801F&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" align="right"/>
 
 <h3 align="center">
@@ -13,11 +13,6 @@
 - 💻 I’m passionate about software development and I'm looking forward to getting to work on new projects in the near future.
 - 📧 Feel free to send me a message if you would like to know more about me.
 
-<div align="center">
-  <a href="#">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
  <br>
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My GitHub Status
@@ -81,4 +76,4 @@
 </div>
 <a target="_blank" href="https://icons8.com">You Too Can Explore Icons8</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F801F&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
