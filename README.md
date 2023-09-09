@@ -18,8 +18,9 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 
-  ![Ömer Akrum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar95-A&show_icons=true&theme=dracula)
+![Ömer Akrum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar95-A&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar95-A&layout=compact&theme=dracula)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Omar95-A&theme=onedark)](https://github.com/Omar95-A/github-profile-trophy)
 </div>
 
