@@ -14,5 +14,6 @@
 - 📧 Feel free to send me a message if you would like to know more about me.
 
 ![Ömer Akrum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar95-A&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar95-A&layout=compact&theme=dracula)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
