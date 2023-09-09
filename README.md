@@ -17,15 +17,19 @@
   <a href="#">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
+</div>
+ <br>
+ 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My GitHub Status
 
 ![Ömer Akrum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar95-A&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar95-A&layout=compact&theme=dracula)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Omar95-A&theme=onedark)](https://github.com/Omar95-A/github-profile-trophy)
-</div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## 📧 Connect With Me
 
  <br>
 <div align="center">
@@ -39,13 +43,12 @@
   <a href="mailto:omer.akrum@yahoo.com"><img width ='36px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/yahoo-icon.svg'></a>
 </div>
 
- <br>
+<br>
 
-<p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-### 🛠  Tech Stack
+## 🛠  Tech Stack
 
 <div align="left">
   <br>
