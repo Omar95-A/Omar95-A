@@ -20,6 +20,7 @@
 
   ![Ömer Akrum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar95-A&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar95-A&layout=compact&theme=dracula)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Omar95-A&theme=onedark)](https://github.com/Omar95-A/github-profile-trophy)
 </div>
 
 
@@ -36,7 +37,7 @@
   &nbsp;
   <a href="mailto:omer.akrum@yahoo.com"><img width ='36px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/yahoo-icon.svg'></a>
 </div>
-  
+
  <br>
 
 <p  align="center">
