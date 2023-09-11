@@ -20,7 +20,8 @@
 
 ![Ömer Akrum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar95-A&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar95-A&layout=compact&theme=dracula)
- <br> <p align="left"><img src="https://komarev.com/ghpvc/?username=Omar95-A&label=PROFILE+VIEWS"/></p>
+ <br> 
+ <p align="left"><img src="https://komarev.com/ghpvc/?username=Omar95-A&label=Profile%20Views&color=0e75b6&style=flat""/></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Omar95-A&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
