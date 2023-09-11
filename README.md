@@ -15,7 +15,7 @@
 
  <br>
  
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Analytics & Trophy
 
 ![Ömer Akrum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar95-A&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar95-A&layout=compact&theme=dracula)
