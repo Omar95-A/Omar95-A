@@ -21,7 +21,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar95-A&layout=compact&theme=dracula)
  <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Omar95-A&theme=onedark)](https://github.com/Omar95-A/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Omar95-A&theme=onedark&column=-1)](https://github.com/Omar95-A/github-profile-trophy)
 
 ---
 <br>
