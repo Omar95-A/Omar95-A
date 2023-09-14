@@ -20,7 +20,7 @@
 
 ![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar95-A&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar95-A&layout=donut&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Omar95-A&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Omar95-A&theme=juicyfresh&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 <br>
