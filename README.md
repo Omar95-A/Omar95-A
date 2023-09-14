@@ -18,9 +18,8 @@
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Analytics & Trophy
 
-![Ömer Akrum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar95-A&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar95-A&layout=compact&theme=dracula)
-<br> 
+![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar95-A&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar95-A&layout=donut&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Omar95-A&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
