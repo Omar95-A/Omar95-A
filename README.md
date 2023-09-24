@@ -13,7 +13,7 @@
 - 📧 Feel free to send me a message if you would like to know more about me.
  <br>
  
-## GitHub Analytics & Trophy
+## 📊 GitHub Analytics & Trophy
 
 ![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar95-A&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar95-A&layout=donut&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
