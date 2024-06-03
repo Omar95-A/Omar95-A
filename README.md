@@ -54,6 +54,7 @@
   <img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/jquery-icon%20(1).svg'> 
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-webpack.svg'> 
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-angularjs.svg'>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-nodejs.svg'>
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-git.svg'>
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-github.svg'>
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-figma.svg'>
